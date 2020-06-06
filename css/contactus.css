@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    overflow-x: hidden ;
+}
+
+ul li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: #ee3a3a;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.nav-dropdown{
+    background-color: #ee3a3a;
+    
+}
+
+.nav-items{
+    font-weight: bold;
+}
+
+.footer{
+    background-color:#e22020 ;
+    color: #ffffff;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.copyright{
+    border-top: 2px dotted #000000;
+    padding-left: 50px;
+    padding-right: 50px;
+   
+}
+
+.Welcome-to{
+    background-image: url(../images/35328.jpg);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.contact-our{
+    background-image: url(../images/save-hands.jpg);
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    color: #ffffff;
+    
+}
+
